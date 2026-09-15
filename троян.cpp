@@ -2,4 +2,4 @@
 
 int main() {
     std::cout << "BABUshKA" << std::endl;
-    };
+};
